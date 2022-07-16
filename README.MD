@@ -1,10 +1,11 @@
-<p align="center"><img width=80.5% src="https://3rd-strike.com/wp-content/uploads/2012/12/Runescape-Logo.png"></p>
+<p></p>
+<div align="center"><img width=70.5% src="https://www.giantbomb.com/a/uploads/scale_medium/0/299/439191-runescape_logo.png"></div>
 
-<p align="center">
+<div align="center">
 
 [![Support Server](https://img.shields.io/discord/997669045144911966.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/Je6yubHCZF)
 
-<p>
+</div>
 
 ## Basic Overview
 This Repository holds all Elvarg's Plus Assets
